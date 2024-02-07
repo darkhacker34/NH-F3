@@ -8,7 +8,7 @@ else
 
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
 
-  git clone $UPSTREAM_REPO /VJ-FILTER-BOT 
+  git clone $UPSTREAM_REPO /NH-F3
 
 fi
 
