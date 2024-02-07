@@ -1,11 +1,8 @@
-
 if [ -z $UPSTREAM_REPO ]
 
 then
-
-  echo "Cloning main Repository"
-
-  git clone https://github.com/darkhacker34/NH-F3/blob/Tech_VJ.git /NH-F3 
+echo "Cloning main Repository"
+git clone https://github.com/darkhacker34/NH-F3/blob/Tech_VJ.git /NH-F3 
 
 else
 
