@@ -1,1 +1,1 @@
-web: python3 bot.py start.sh
+web: python3 bot.py
